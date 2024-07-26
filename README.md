@@ -6,15 +6,18 @@ Download the Sponza and Vokselia_Spaw model data from [here](https://casual-effe
 
 Download the Gallery model data from [here](https://sketchfab.com/3d-models/the-picture-gallery-231fdb3e9e354c6faaa3c250f8c9988f);
 
-
 ## Requirements
 
 Visual Studio >= 2017
 
 # Demo 
-Here we give some demo scripts for using our checkpoints.
-You can change the scripts according to your needs.
+Running example
+You can Download and install project files:
 
-```bash
-python ./test.py
-```
+Files included:
+VPAL_GVSM_Imp.msi
+setup.exe
+Double click on 'setup. exe' to proceed with the installation.
+Run the installed project
+
+Here, we have provided some demonstrations.
