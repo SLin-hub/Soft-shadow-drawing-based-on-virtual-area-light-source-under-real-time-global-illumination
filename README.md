@@ -17,7 +17,7 @@
 # Model preparation
 We needed three road scene datasets: Cityscapes, Camvid, and ADE20K.
 
-Download the Cityscapes dataset from [here](https://www.cityscapes-dataset.com/);
+Download the Cityscapes dataset from [here](https://www.cityscapes-dataset.com/](https://sketchfab.com/3d-models/the-picture-gallery-231fdb3e9e354c6faaa3c250f8c9988f);
 
 Download the Gallery model data from [here](https://sketchfab.com/3d-models/the-picture-gallery-231fdb3e9e354c6faaa3c250f8c9988f);
 
