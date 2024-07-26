@@ -23,3 +23,7 @@ Run the installed project
 Here, we have provided some demonstrations.
 Picture
 ![Sponza Scene](https://github.com/SLin-hub/Soft-shadow-drawing-based-on-virtual-area-light-source-under-real-time-global-illumination/blob/main/image/01.png)
+
+![Gallery Scene](https://github.com/SLin-hub/Soft-shadow-drawing-based-on-virtual-area-light-source-under-real-time-global-illumination/blob/main/image/02.png)
+
+![Vokselia_Spaw Scene](https://github.com/SLin-hub/Soft-shadow-drawing-based-on-virtual-area-light-source-under-real-time-global-illumination/blob/main/image/03.png)
