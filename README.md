@@ -17,9 +17,9 @@
 # Model preparation
 We need three scene model data: Sponza, Gallery, and Vokselia_Spaw.
 
-Download the Sponza dataset from [here](https://sketchfab.com/3d-models/the-picture-gallery-231fdb3e9e354c6faaa3c250f8c9988f);
+Download the Sponza dataset from [here](https://casual-effects.com/data/);
 
-Download the Sponza model data according to the [tutorial](https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid);
+Download the Gallery dataset from [here](https://sketchfab.com/3d-models/the-picture-gallery-231fdb3e9e354c6faaa3c250f8c9988f);
 
 Download the ADE20K dataset from [webpage](https://groups.csail.mit.edu/vision/datasets/ADE20K/).
 
