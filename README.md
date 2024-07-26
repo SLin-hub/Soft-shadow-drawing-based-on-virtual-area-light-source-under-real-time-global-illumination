@@ -21,3 +21,5 @@ Double click on 'setup. exe' to proceed with the installation.
 Run the installed project
 
 Here, we have provided some demonstrations.
+Picture
+![Sponza Scene](https://github.com/SLin-hub/Soft-shadow-drawing-based-on-virtual-area-light-source-under-real-time-global-illumination/blob/main/image/01.png)
