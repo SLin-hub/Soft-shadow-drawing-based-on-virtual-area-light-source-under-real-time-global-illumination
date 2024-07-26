@@ -17,7 +17,7 @@
 # Model preparation
 We need three scene model data: Sponza, Gallery, and Vokselia_Spaw.
 
-Download the Cityscapes dataset from [here](https://www.cityscapes-dataset.com](https://sketchfab.com/models/231fdb3e9e354c6faaa3c250f8c9988f#)/);
+Download the Cityscapes dataset from [here][(https://www.cityscapes-dataset.com](https://sketchfab.com/models/231fdb3e9e354c6faaa3c250f8c9988f/);](https://sketchfab.com/3d-models/the-picture-gallery-231fdb3e9e354c6faaa3c250f8c9988f)
 
 Download the Camvid dataset according to the [tutorial](https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid);
 
