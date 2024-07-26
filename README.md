@@ -13,14 +13,13 @@
 * 在项目中选择Frame点击生成以生成动态链接库
 
 * 然后就可以运行其他的项目了~
-# Semantic segmentation of road scenarios based on Transformer and dual-branch network
 
-# DataSet preparation
+# Model preparation
 We needed three road scene datasets: Cityscapes, Camvid, and ADE20K.
 
 Download the Cityscapes dataset from [here](https://www.cityscapes-dataset.com/);
 
-Download the Camvid dataset according to the [tutorial](https://github.com/alexgkendall/SegNet-Tutorial/tree/master/CamVid);
+Download the Gallery model data from [here](https://sketchfab.com/3d-models/the-picture-gallery-231fdb3e9e354c6faaa3c250f8c9988f);
 
 Download the ADE20K dataset from [webpage](https://groups.csail.mit.edu/vision/datasets/ADE20K/).
 
